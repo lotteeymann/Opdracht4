@@ -5,6 +5,7 @@ Animation
 ![wood](https://user-images.githubusercontent.com/86419683/123307794-308c3a00-d523-11eb-95db-1fd5259077aa.jpg)
 ![wood2](https://user-images.githubusercontent.com/86419683/123307805-341fc100-d523-11eb-8fb4-efcb2c66b3af.jpg)
 
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -12,7 +13,17 @@ Animation
     <title>Hello, WebVR! • A-Frame</title>
     <meta name="viewport" content="width=device-width">
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
-    <script src="scripts/main.js" defer></script>
+    <script>changing individual properties with code and using setInterval
+var rotationSpeed = 0.01;
+var myOtherBox = document.getElementById('myOtherBox');
+
+function spin(){
+myOtherBox.object3D.rotation.x += rotationSpeed;
+console.log(myOtherBox.object3D.rotation.x);
+}
+
+setInterval(spin, 16); equivalent to 60 fps
+</script>
   </head>
   <body>
     <a-scene background="color: #333333">
