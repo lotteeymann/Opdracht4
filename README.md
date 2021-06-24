@@ -45,7 +45,7 @@ Animation
         shadow
         animation="property: position; 
                    to: 90 360 180; 
-                   dur: 2000;
+                   dur: 4000;
                    easing: linear; 
                    loop: true" >  
       </a-box>
