@@ -6,7 +6,6 @@ Animation
 ![wood2](https://user-images.githubusercontent.com/86419683/123307805-341fc100-d523-11eb-8fb4-efcb2c66b3af.jpg)
 
 
-
 <!DOCTYPE html>
 <html>
   <head>
