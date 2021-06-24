@@ -22,7 +22,7 @@ Animation
           <img id="grass" src="grass.jpg" />
       </a-assets>
       <a-box id="myBox" 
-        position="-1 1 -3" 
+        position="1 1 -3" 
         rotation="0 45 0" 
         width="3" 
         height="1" 
