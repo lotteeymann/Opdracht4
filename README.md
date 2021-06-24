@@ -42,7 +42,13 @@ Animation
         height="1" 
         depth="1" 
         material="src: #wood2"
-        shadow>  
+        shadow
+        animation="property: rotation; 
+                   to: 90 360 180; 
+                   dur: 2000;
+                   elasticity: 200;
+                   easing: linear; 
+                   loop: true" >  
       </a-box>
       <a-plane id="ground"
         position="0 0 -4" 
