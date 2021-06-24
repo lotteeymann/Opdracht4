@@ -5,6 +5,8 @@ Animation
 ![wood](https://user-images.githubusercontent.com/86419683/123307794-308c3a00-d523-11eb-95db-1fd5259077aa.jpg)
 ![wood2](https://user-images.githubusercontent.com/86419683/123307805-341fc100-d523-11eb-8fb4-efcb2c66b3af.jpg)
 
+![main.js](https://github.com/lotteeymann/Opdracht4/blob/864ef7fe2a0bcdf5fe0945abc771d152b98d3a9b/main.js)
+
 <!DOCTYPE html>
 <html>
   <head>
