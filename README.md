@@ -46,7 +46,6 @@ Animation
         animation="property: position; 
                    to: 90 360 180; 
                    dur: 2000;
-                   elasticity: 200;
                    easing: linear; 
                    loop: true" >  
       </a-box>
