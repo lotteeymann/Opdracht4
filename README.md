@@ -13,14 +13,15 @@ Animation
     <title>Hello, WebVR! • A-Frame</title>
     <meta name="viewport" content="width=device-width">
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
-    <script>changing individual properties with code and using setInterval
-var rotationSpeed = 0.01;
-var myOtherBox = document.getElementById('myOtherBox');
+    <script type="text/javascript" >
+      changing individual properties with code and using setInterval
+      var rotationSpeed = 0.01;
+      var myOtherBox = document.getElementById('myOtherBox');
 
-function spin(){
-myOtherBox.object3D.rotation.x += rotationSpeed;
-console.log(myOtherBox.object3D.rotation.x);
-}
+      function spin(){
+        myOtherBox.object3D.rotation.x += rotationSpeed;
+        console.log(myOtherBox.object3D.rotation.x);
+      }
 
 setInterval(spin, 16); equivalent to 60 fps
 </script>
