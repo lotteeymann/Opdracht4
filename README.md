@@ -33,7 +33,7 @@ Animation
                    to: 90 360 180; 
                    dur: 2000; 
                    easing: linear; 
-                   loop: true" 
+                   loop: true" >
       </a-box>
       <a-box id="myOtherBox" 
         position="2 1 -3" 
