@@ -19,7 +19,6 @@ Animation
           <img id="wood2" src="wood2.jpg" />
           <img id="grass" src="grass.jpg" />
       </a-assets>
-      
       <a-box id="myBox" 
         position="-1 1 -3" 
         rotation="0 45 0" 
@@ -34,7 +33,6 @@ Animation
                    easing: linear; 
                    loop: true" 
       </a-box>
-      
       <a-box id="myOtherBox" 
         position="2 1 -3" 
         rotation="0 45 0" 
@@ -44,7 +42,6 @@ Animation
         material="src: #wood2"
         shadow>  
       </a-box>
-      
       <a-plane id="ground"
         position="0 0 -4" 
         rotation="-90 0 0" 
@@ -54,7 +51,6 @@ Animation
         material="src: #grass; repeat: 10 10"
         shadow>
       </a-plane> 
-      
     </a-scene>
   </body>
 </html>
