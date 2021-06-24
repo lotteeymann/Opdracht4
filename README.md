@@ -43,7 +43,7 @@ Animation
         depth="1" 
         material="src: #wood2"
         shadow
-        animation="property: rotation; 
+        animation="property: position; 
                    to: 90 360 180; 
                    dur: 2000;
                    elasticity: 200;
