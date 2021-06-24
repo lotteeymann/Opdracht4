@@ -6,13 +6,15 @@ Animation
 ![wood2](https://user-images.githubusercontent.com/86419683/123307805-341fc100-d523-11eb-8fb4-efcb2c66b3af.jpg)
 
 
+
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
     <title>Hello, WebVR! • A-Frame</title>
     <meta name="viewport" content="width=device-width">
-    <script src="main.js"></script>
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+    <script src="scripts/main.js" defer></script>
   </head>
   <body>
     <a-scene background="color: #333333">
@@ -22,7 +24,7 @@ Animation
           <img id="grass" src="grass.jpg" />
       </a-assets>
       <a-box id="myBox" 
-        position="-1 2 -3" 
+        position="-1 1 -3" 
         rotation="0 45 0" 
         width="3" 
         height="1" 
@@ -36,7 +38,7 @@ Animation
                    loop: true" >
       </a-box>
       <a-box id="myOtherBox" 
-        position="3 1 -3" 
+        position="2 1 -3" 
         rotation="0 45 0" 
         width="3" 
         height="1" 
