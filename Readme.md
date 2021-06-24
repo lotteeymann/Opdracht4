@@ -5,7 +5,7 @@ Animation
 ![wood](https://user-images.githubusercontent.com/86419683/123307794-308c3a00-d523-11eb-95db-1fd5259077aa.jpg)
 ![wood2](https://user-images.githubusercontent.com/86419683/123307805-341fc100-d523-11eb-8fb4-efcb2c66b3af.jpg)
 
-![main](https://github.com/lotteeymann/Opdracht4/blob/864ef7fe2a0bcdf5fe0945abc771d152b98d3a9b/main.js)
+[main](https://github.com/lotteeymann/Opdracht4/blob/864ef7fe2a0bcdf5fe0945abc771d152b98d3a9b/main.js)
 
 <!DOCTYPE html>
 <html>
@@ -14,7 +14,7 @@ Animation
     <title>Hello, WebVR! • A-Frame</title>
     <meta name="viewport" content="width=device-width">
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
-    <script src="main.js" defer></script>
+    <script src="main.js" type="text/javascript"></script>
   </head>
   <body>
     <a-scene background="color: #333333">
