@@ -1,9 +1,6 @@
 # Opdracht4
 Animation
 
-[grass](https://user-images.githubusercontent.com/86419683/123306212-4d277280-d521-11eb-8a97-e7fae825b378.jpg)
-[wood](https://user-images.githubusercontent.com/86419683/123306228-51ec2680-d521-11eb-8380-5010e81b04fe.jpg)
-[wood2](https://user-images.githubusercontent.com/86419683/123306232-5284bd00-d521-11eb-8bb6-2f46151f74d2.jpg)
 
 
 <!DOCTYPE html>
