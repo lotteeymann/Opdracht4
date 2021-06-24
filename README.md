@@ -1,5 +1,11 @@
 # Opdracht4
 Animation
+
+![grass](https://user-images.githubusercontent.com/86419683/123306212-4d277280-d521-11eb-8a97-e7fae825b378.jpg)
+![wood](https://user-images.githubusercontent.com/86419683/123306228-51ec2680-d521-11eb-8380-5010e81b04fe.jpg)
+![wood2](https://user-images.githubusercontent.com/86419683/123306232-5284bd00-d521-11eb-8bb6-2f46151f74d2.jpg)
+
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -12,9 +18,9 @@ Animation
   <body>
     <a-scene background="color: #333333">
       <a-assets>
-          <img id="wood" src="images/wood.jpg" />
-          <img id="wood2" src="images/wood2.jpg" />
-          <img id="grass" src="images/grass.jpg" />
+          <img id="wood" src="wood.jpg" />
+          <img id="wood2" src="wood2.jpg" />
+          <img id="grass" src="grass.jpg" />
       </a-assets>
       <a-box id="myBox" 
         position="-1 1 -3" 
